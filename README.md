@@ -1,7 +1,7 @@
   <img src="https://gpvc.arturio.dev/Tahanima">
 <table>
   <tbody><tr>
-    <td><img src="https://tenor.com/lIfl2nOlmQ0.gif"></td>
+    <td><img src="https://tenor.com/qEtuJjaaDHk.gif"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Binh Nguyen</strong></li>
